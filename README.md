@@ -13,9 +13,6 @@
   </table>
 </center>
 
-### Recent Projects 
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcellevargas&repo=currency-bot)](https://github.com/anuraghazra/currency-bot)
-
 ### 🔭 I’m currently working on ...
 
 ### 🌱 I’m currently learning ...
