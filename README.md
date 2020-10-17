@@ -1,6 +1,6 @@
 ## Welcome! 😄
 
-![capa github](https://github.com/marcellevargas/marcellevargas/blob/master/Marcelle%20Vargas.png)  
+![capa github](https://github.com/marcellevargas/publicAssets/blob/main/Marcelle%20Vargas(1).png)  
 
 <center>
   <table>
