@@ -1,6 +1,6 @@
 ## Welcome! 😄
 
-![capa github](https://github.com/marcellevargas/marcellevargas/blob/master/photo_5021622217582160822_y(1).jpg)  
+![capa github](https://github.com/marcellevargas/marcellevargas/blob/master/Marcelle%20Vargas%20(Twitch%20Screen).jpg)  
 
 <center>
   <table>
