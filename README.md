@@ -92,11 +92,6 @@
         </a>
       </td>
       <td> 
-        <a href="https://www.youtube.com/channel/UCvvsdJQf4h75iErfx2oHgbw">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> 
-        </a>
-      </td>
-      <td> 
         <a href="https://medium.com/@marcellecode">
           <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> 
         </a>
