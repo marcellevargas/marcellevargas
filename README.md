@@ -73,6 +73,12 @@
       <td> 
           <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" /> 
       </td>
+      <td> 
+          <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /> 
+      </td>
+<td> 
+          <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go&logoColor=white" /> 
+      </td>
     </tr>
   </table>
 </center>
@@ -92,7 +98,7 @@
         </a>
       </td>
       <td> 
-        <a href="https://medium.com/@marcellecode">
+        <a href="https://marcelle-vargas.medium.com/">
           <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> 
         </a>
       </td>
