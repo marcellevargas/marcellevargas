@@ -88,7 +88,20 @@ Languages ​​and Technologies: `JavaScript`, `TypeScript`, `Ionic FrameWork`,
 <br/>
 <br/>
 
-## <img align="left" height="35px" width="35px" alt="STBR Logo" src="https://scontent.cdninstagram.com/v/t51.2885-19/441804189_7827485987318174_1013897001274976401_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_ohc=7S8Ewi3eLaIQ7kNvgHzb6aN&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYAb_WEYzLZXFL3zMgaddic5a3-n4vanYawy6AjwJ1NXmA&oe=66518AA4&_nc_sid=10d13b"/> Github Status
-[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## <img align="left" height="35px" width="35px" alt="STBR Logo" style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/marcellevargas/marcellevargas/master/github-mark-white.svg"/> Github Status
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=marcellevargas&theme=dracula" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellevargas&hide=html&layout=compact&theme=dracula" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
