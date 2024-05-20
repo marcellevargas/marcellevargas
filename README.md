@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/marcellevargas/marcellevargas/master/programmer%20image.svg" alt="ilustração de uma mulher na frente do computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/marcellevargas/marcellevargas/blob/master/programmer.svg" alt="ilustração de uma mulher na frente do computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   I have been a software developer since 2016, with a solid foundation in several programming languages, such as JavaScript, TypeScript, Python, PHP and Golang. 
