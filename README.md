@@ -72,7 +72,7 @@ Languages ​​and Technologies: `JavaScript`, `TypeScript`, `React.js`, `Next.
 Languages ​​and Technologies: `Python`, `Pandas`, `Node.js`, `TypeScript` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Americanas Logo" src="https://media.licdn.com/dms/image/D4D0BAQEoMTZW5hktPw/company-logo_100_100/0/1688744936290/americanas_sa_logo?e=1724284800&v=beta&t=BzncPz_8zaMl-9Vfs_jADc9Be1fcA4K4h2pQR_RNTWE"/>(https://www.americanas.com.br/)\
+[<img align="left" height="94px" width="94px" alt="Americanas Logo" src="https://media.licdn.com/dms/image/D4D0BAQEoMTZW5hktPw/company-logo_100_100/0/1688744936290/americanas_sa_logo?e=1724284800&v=beta&t=BzncPz_8zaMl-9Vfs_jADc9Be1fcA4K4h2pQR_RNTWE"/>](https://www.americanas.com.br/)\
 **Information security analyst** \
 [**Americanas S.A.**](https://www.americanas.com.br/) • Full-time \
 Languages ​​and Technologies: `Python`, `Pandas`, `TypeScript`\
