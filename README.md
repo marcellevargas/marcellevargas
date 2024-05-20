@@ -24,6 +24,8 @@
   </a>
 </p>
 
+<br/>
+<br/>
 
 
 ## 💻 Technical skills
