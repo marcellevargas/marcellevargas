@@ -1,113 +1,23 @@
-## Welcome! 😄
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<img src="Marcelle Vargas banner.jpg" alt="banner github">  
+<p align="left"> 
+  I have been a software developer since 2016, with a solid foundation in several programming languages, such as JavaScript, TypeScript, Python, PHP and Golang. 
+  I have a passion for creating robust and innovative solutions, always focusing on optimization, accessibility, SEO. 
+  My experience includes developing Web and Mobile applications, always seeking to deliver the best possible experience for users.
+</p>
 
-<center>
-  <table>
-    <tr>
-        <td>
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellecode&hide=html&layout=compact&theme=default" />
-        </td>
-        <td>
-            <img width="100%" src="https://github-readme-stats.vercel.app/api?username=marcellecode&theme=default" />
-        </td>
-    </tr>
-  </table>
-</center>
+<p align="left">
+  💌 You can find me on social media ⤵️
+</p>
 
-### Technical Skills
-<center>
-  <table>
-      <tr> 
-        <td> 
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-        </td>
-        <td> 
-            <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> 
-        </td>
-        <td> 
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" /> 
-        </td>
-        <td> 
-            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
-        </td>
-        <td> 
-            <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> 
-        </td>
-        <td> 
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-        </td>
-        <td>
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-        </td>
-      </tr>
-  </table>
-</center>
-<center>
-<table>  
-    <tr> 
-      <td> 
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-      </td>
-      <td> 
-          <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-      </td>
-      <td> 
-          <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> 
-      </td>
-      <td> 
-          <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
-      </td>
-       <td> 
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
-      </td>
-       <td> 
-          <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> 
-      </td>
-      <td> 
-          <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> 
-      </td>
-      <td> 
-          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> 
-      </td>
-      <td> 
-          <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" /> 
-      </td>
-      <td> 
-          <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /> 
-      </td>
-<td> 
-          <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go&logoColor=white" /> 
-      </td>
-    </tr>
-  </table>
-</center>
-
-### Social Links
-<center>
-  <table>
-    <tr> 
-      <td> 
-        <a href="https://www.instagram.com/marcellecode/">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
-        </a>
-      </td>
-      <td> 
-        <a href="https://twitter.com/marcellecode">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
-        </a>
-      </td>
-      <td> 
-        <a href="https://marcelle-vargas.medium.com/">
-          <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> 
-        </a>
-      </td>
-      <td> 
-        <a href="https://www.linkedin.com/in/marcelle-vargas">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-        </a>
-      </td>
-    </tr>
-  </table>
-</center>
-
+<p align="left">
+  <a href="mailto:marcellecode@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/>
+  </a>
+  <a href="https://www.example.com" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.example.com" target="_blank" title="Medium">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&labelColor=12100E&logo=medium&logoColor=white&link=https://marcelle-vargas.medium.com/" alt="Medium"/>
+  </a>
+</p>
