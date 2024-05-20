@@ -82,7 +82,7 @@ Languages ​​and Technologies: `JavaScript`, `TypeScript`, `Ionic FrameWork`,
 
 [<img align="left" height="94px" width="94px" alt="STBR Logo" src="https://scontent.cdninstagram.com/v/t51.2885-19/441804189_7827485987318174_1013897001274976401_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_ohc=7S8Ewi3eLaIQ7kNvgHzb6aN&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYAb_WEYzLZXFL3zMgaddic5a3-n4vanYawy6AjwJ1NXmA&oe=66518AA4&_nc_sid=10d13b"/>](https://www.anequim.com.br/stbr/)
 **Software Engineer - Mobile** \
-[**STBR**](https://www.anequim.com.br/stbr/) • Part-time \
+[**STBR**](https://www.anequim.com.br/stbr/) • Full-time \
 Languages ​​and Technologies: `JavaScript`, `TypeScript`, `Ionic FrameWork`, `Angular FrameWork`, `PHP`, `Node.js`\
 <br/>
 <br/>
