@@ -12,12 +12,12 @@
 
 <p align="left">
   <a href="mailto:marcellecode@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:marcellecode@gmail.com" alt="Gmail"/>
   </a>
-  <a href="https://www.example.com" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/marcelle-vargas/?locale=en_US" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelle-vargas/?locale=en_US" alt="LinkedIn"/>
   </a>
-  <a href="https://www.example.com" target="_blank" title="Medium">
+  <a href="https://marcelle-vargas.medium.com/" target="_blank" title="Medium">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&labelColor=12100E&logo=medium&logoColor=white&link=https://marcelle-vargas.medium.com/" alt="Medium"/>
   </a>
 </p>
