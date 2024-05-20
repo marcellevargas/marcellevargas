@@ -24,6 +24,8 @@
   </a>
 </p>
 
+
+
 ## 💻 Technical skills
 
 ### 🖥️ Front-end
