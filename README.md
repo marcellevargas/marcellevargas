@@ -22,7 +22,10 @@
   <a href="https://marcelle-vargas.medium.com/" target="_blank" title="Medium">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&labelColor=12100E&logo=medium&logoColor=white&link=https://marcelle-vargas.medium.com/" alt="Medium"/>
   </a>
-</p>
+  <a href="https://leetcode.com/u/marcellecode/" target="_blank" title="LeetCode">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmarcellecode&logo=leetcode&logoColor=yellow" alt="LeetCode"/>
+  </a>
+   <a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/marcellecode/badges/micro" alt="codewars badge micro" /></a>
 
 <br/>
 <br/>
