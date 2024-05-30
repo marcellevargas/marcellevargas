@@ -119,6 +119,11 @@ Languages ​​and Technologies: `JavaScript`, `TypeScript`, `Ionic FrameWork`,
 [**Udemy Certification**](https://www.udemy.com/certificate/UC-ff1d7e8c-3925-413b-b7eb-e207ca5f0482/) • Course \
 Course content: `TypeScript Basic`, `Decorators of TypeScript`, `TypeScript integration with Express`, `TypeScript Generics`, `TypeScript integration with React.js`\
 <br/>
+[<img align="left" height="94px" width="94px" alt="Udemy Logo" src="https://pbs.twimg.com/profile_images/1415325711896825858/2cczQq-X_400x400.png"/>]([https://www.anequim.com.br/stbr/](https://www.udemy.com/))
+**React Testing Library and Jest: The Complete Guide** \
+[**Udemy Certification**](https://www.udemy.com/certificate/UC-04207ad4-efe6-4b85-abf9-f4dd43c88645/) • Course \
+Course content: `React Testing Library`, `JEST`\
+<br/>
 <br/>
 <br/>
 
