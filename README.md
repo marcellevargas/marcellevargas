@@ -44,13 +44,15 @@ My experience includes developing Web and Mobile applications, developing APIs, 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 
 ### 🗄️ Back-end
-![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
