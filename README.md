@@ -3,9 +3,9 @@
 <img src="https://github.com/marcellevargas/marcellevargas/blob/master/programmer.svg" alt="ilustração de uma mulher na frente do computador" min-width="400px" max-width="250px" width="250px" align="right">
 
 <p align="left"> 
-  I have been a software developer since 2016, with a solid foundation in several programming languages, such as JavaScript, TypeScript, Python, PHP and Golang. 
-  I have a passion for creating robust and innovative solutions, always focusing on optimization, accessibility, SEO. 
-  My experience includes developing Web and Mobile applications, always seeking to deliver the best possible experience for users.
+ I have been a software developer since 2016, with a solid foundation in several programming languages ​​and technologies such as JavaScript, TypeScript, Python, React.js, Vue.js, Next.js, Nuxt.js, Flask, Node.js, Nest.js, PHP, and Golang.
+I have a passion for creating robust, innovative solutions. Always focusing on optimization, accessibility, SEO and security.
+My experience includes developing Web and Mobile applications, developing APIs, always seeking to deliver the best experience for users.
 </p>
 
 <p align="left">
