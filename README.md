@@ -44,9 +44,6 @@ My experience includes developing Web and Mobile applications, developing APIs, 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 
 ### 🗄️ Back-end
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
@@ -54,7 +51,15 @@ My experience includes developing Web and Mobile applications, developing APIs, 
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 
-### Mobile
+## 💾 ORM
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+
+## 🎲 Database
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
+### 📱 Mobile
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
 
