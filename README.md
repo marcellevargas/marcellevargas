@@ -19,9 +19,9 @@
   <a href="https://www.linkedin.com/in/marcelle-vargas/?locale=en_US" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelle-vargas/?locale=en_US" alt="LinkedIn"/>
   </a>
-  <a href="https://marcelle-vargas.medium.com/" target="_blank" title="Medium">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&labelColor=12100E&logo=medium&logoColor=white&link=https://marcelle-vargas.medium.com/" alt="Medium"/>
-  </a>
+  <a href="https://dev.to/marcellevargas" target="_blank" title="dev.to">
+    <img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to"/>
+</a>
   <a href="https://leetcode.com/u/marcellecode/" target="_blank" title="LeetCode">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmarcellecode&logo=leetcode&logoColor=yellow" alt="LeetCode"/>
   </a>
