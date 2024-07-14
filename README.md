@@ -146,7 +146,7 @@ Course content: `React Testing Library`, `JEST`\
   <a href="https://github.com/marcellevargas?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<details open> 
+<details open>
   <summary><h2>⚙️ Ongoing projects</h2></summary>
   <p align="left">
    <a href="https://github.com/marcellevargas/next-social"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marcellevargas&repo=next-social&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ramen go app"></a>
