@@ -72,31 +72,26 @@
 
 ## 👩🏽‍💻 Professional experience
 
-[<img align="left" height="94px" width="94px" alt="ArcTouch Logo" src="https://arctouch.com/wp-content/uploads/2022/08/arctouch-logo-orange.svg"/>](https://arctouch.com/)
 **Software Engineer** \
 [**ArcTouch**](https://arctouch.com/) • Full-time \
 Languages ​​and Technologies: `JavaScript`, `TypeScript`, `React.js`, `Next.js`, `Angular FrameWork`, `SASS`, `Python`, `Node.js`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Mercado Bitcoin Logo" src="https://static.mercadobitcoin.com.br/web/img/logos/mb/logo-icon-color.svg"/>](https://www.mercadobitcoin.com.br/)
 **Threat Hunting Analyst** \
 [**Mercado Bitcoin**](https://www.mercadobitcoin.com.br/) • Full-time \
 Languages ​​and Technologies: `Python`, `Pandas`, `Node.js`, `TypeScript` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Americanas Logo" src="https://media.licdn.com/dms/image/D4D0BAQEoMTZW5hktPw/company-logo_100_100/0/1688744936290/americanas_sa_logo?e=1724284800&v=beta&t=BzncPz_8zaMl-9Vfs_jADc9Be1fcA4K4h2pQR_RNTWE"/>](https://www.americanas.com.br/)\
 **Information security analyst** \
 [**Americanas S.A.**](https://www.americanas.com.br/) • Full-time \
 Languages ​​and Technologies: `Python`, `Pandas`, `TypeScript`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Working Minds Logo" src="https://media.licdn.com/dms/image/C4E0BAQFL0nSW4dceIw/company-logo_100_100/0/1631326324818?e=1724284800&v=beta&t=gvPacKMX69vNUNH576ijqFLgwx7MNe3AidxMO9yNGxs"/>](https://www.wkm.com.br/)
 **Software Engineer** \
 [**Working Minds**](https://www.wkm.com.br/) • Part-time \
 Languages ​​and Technologies: `JavaScript`, `TypeScript`, `Ionic FrameWork`, `Angular FrameWork`, `React.js`, `Next.js`, `SASS`, `Node.js`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="STBR Logo" src="https://github.com/marcellevargas/marcellevargas/blob/master/STBR%20logo.png"/>](https://www.anequim.com.br/stbr/)
 **Software Engineer - Mobile** \
 [**STBR**](https://www.anequim.com.br/stbr/) • Full-time \
 Languages ​​and Technologies: `JavaScript`, `TypeScript`, `Ionic FrameWork`, `Angular FrameWork`, `PHP`, `Node.js`\
