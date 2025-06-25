@@ -132,6 +132,7 @@ Course content: `React Testing Library`, `JEST`\
 <details open> 
   <summary><h2>📁 Recent Repositories</h2></summary>
   <p align="left">
+   <a href="https://github.com/marcellevargas/petsitter-web-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marcellevargas&repo=petsitter-web-page&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="petsitter app"></a>
    <a href="https://github.com/marcellevargas/ramengo-challenge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marcellevargas&repo=ramengo-challenge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ramen go app"></a>
     <a href="https://github.com/marcellevargas/basic-todo-list"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marcellevargas&repo=basic-todo-list&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="basic todo list app"></a>
     <a href="https://github.com/marcellevargas/counter-reducer-hook"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=marcellevargas&repo=counter-reducer-hook&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="counter reduce hook"></a>
