@@ -8,6 +8,8 @@
   My experience includes developing Web and Mobile applications, developing APIs, always seeking to deliver the best experience to users.
 </p>
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-marcellevargas.com.br-blueviolet?style=for-the-badge&logo=github)](https://www.marcellevargas.com.br/)
+
 <p align="left">
   💌 You can find me on social media ⤵️
 </p>
